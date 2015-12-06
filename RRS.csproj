@@ -50,11 +50,17 @@
     <Content Include="blog-home-1.html" />
     <Content Include="blog-home-2.html" />
     <Content Include="blog-post.html" />
+    <Content Include="Compustar-T11_in_snow.jpg" />
+    <Content Include="compustar.gif" />
+    <Content Include="CompustarBanner.png" />
+    <Content Include="compustar_3miles_crushproof_waterproof.png" />
     <Content Include="contact.html" />
     <Content Include="css\bootstrap.css" />
     <Content Include="css\bootstrap.min.css" />
     <Content Include="css\modern-business.css" />
     <Content Include="css\RSR_destroyshopprices.jpg" />
+    <Content Include="drone.gif" />
+    <Content Include="Drone_banner.jpg" />
     <Content Include="faq.html" />
     <Content Include="font-awesome\css\font-awesome.css" />
     <Content Include="font-awesome\css\font-awesome.min.css" />
@@ -82,8 +88,11 @@
     <Content Include="portfolio-4-col.html" />
     <Content Include="portfolio-item.html" />
     <Content Include="pricing.html" />
+    <Content Include="RS-banner.jpg" />
+    <Content Include="RSR_destroyshopprices.jpg" />
     <Content Include="services.html" />
     <Content Include="sidebar.html" />
+    <Content Include="WinterSale.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="font-awesome\fonts\fontawesome-webfont.eot" />
