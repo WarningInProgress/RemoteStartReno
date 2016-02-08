@@ -61,12 +61,19 @@
     <Content Include="font-awesome\fonts\fontawesome-webfont.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="full-width.html" />
+    <Content Include="images\box_5402as.jpg" />
     <Content Include="images\Compustar-T11_in_snow.jpg" />
     <Content Include="images\compustar.gif" />
     <Content Include="images\CompustarBanner.png" />
     <Content Include="images\compustar_3miles_crushproof_waterproof.png" />
     <Content Include="images\drone.gif" />
     <Content Include="images\Drone_banner.jpg" />
+    <Content Include="images\fobs.jpg" />
+    <Content Include="images\fob_601S.jpg" />
+    <Content Include="images\fob_705.jpg" />
+    <Content Include="images\fob_800S.png" />
+    <Content Include="images\fob_901ss.jpg" />
+    <Content Include="images\fob_t11.jpg" />
     <Content Include="images\not_used\drone_iPhone.jpg" />
     <Content Include="images\not_used\T11_takeitanywhere.png" />
     <Content Include="images\RS-banner.jpg" />
@@ -84,6 +91,7 @@
     <Content Include="portfolio-4-col.html" />
     <Content Include="portfolio-item.html" />
     <Content Include="pricing.html" />
+    <Content Include="products.html" />
     <Content Include="services.html" />
     <Content Include="sidebar.html" />
   </ItemGroup>
